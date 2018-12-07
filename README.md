@@ -1,5 +1,6 @@
 # CIFAR-100--Knowledge-Distillation-with-Augmented-Data
 Knowledge distillation using CIFAR 100
+
 Paper : https://arxiv.org/abs/1503.02531
 
 # Teacher Model
