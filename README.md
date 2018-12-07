@@ -20,7 +20,7 @@ ImageNet Dataset : http://www.image-net.org/
 Link = http://hpkim0512.blogspot.com/2017/12/sdf.html?m=1
 
 # Training Method
-Ordinary training with max overfit 50
+Stop Training if overfitting(validation set accuracy doesn't increase) happens more than 50 epochs
 
 # Programming Language
 Python 3.6
