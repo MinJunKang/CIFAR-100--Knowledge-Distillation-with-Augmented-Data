@@ -11,7 +11,8 @@ MobileNet or CNN - LSTM
 
 # Data
 ImageNet Dataset : http://www.image-net.org/
-How to get dataset?
+
+# How to get dataset?
 Link = http://hpkim0512.blogspot.com/2017/12/sdf.html?m=1
 
 # Training Method
